@@ -10,4 +10,13 @@ body{
     left: 50%;
     transform: translate(-50%,-50%);
     /* center the div on page */
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 0.625rem;
+    padding: 0.625rem;
+}
+
+.card img{
+    height: 12.5rem;
+    width: 12.5rem;
+    border-radius: 0.625rem;
 }
